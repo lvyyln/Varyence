@@ -1,0 +1,8 @@
+C:\Users\lvyyl\source\repos\Varyence\FindLocationServices\bin\Debug\FindLocationServices.dll
+C:\Users\lvyyl\source\repos\Varyence\FindLocationServices\bin\Debug\FindLocationServices.pdb
+C:\Users\lvyyl\source\repos\Varyence\FindLocationServices\obj\Debug\Varyence.FindLocationServices.csprojAssemblyReference.cache
+C:\Users\lvyyl\source\repos\Varyence\FindLocationServices\obj\Debug\FindLocationServices.dll
+C:\Users\lvyyl\source\repos\Varyence\FindLocationServices\obj\Debug\FindLocationServices.pdb
+C:\Users\lvyyl\source\repos\Varyence\FindLocationServices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lvyyl\source\repos\Varyence\FindLocationServices\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lvyyl\source\repos\Varyence\FindLocationServices\obj\Debug\Varyence.FindLocationServices.csproj.CopyComplete
